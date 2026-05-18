@@ -1,0 +1,6 @@
+Process 0: value = 0.234567, rank = 0
+Process 1: value = 0.876543, rank = 3
+Process 2: value = 0.456789, rank = 1
+Process 3: value = 0.654321, rank = 2
+
+Sorted values: 0.234567 0.456789 0.654321 0.876543

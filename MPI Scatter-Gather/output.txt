@@ -1,0 +1,9 @@
+Root process created 400 random numbers
+Process 0: local average = 0.523456
+Process 1: local average = 0.478234
+Process 2: local average = 0.512345
+Process 3: local average = 0.489012
+Process 0: global average = 0.500762
+Process 1: global average = 0.500762
+Process 2: global average = 0.500762
+Process 3: global average = 0.500762

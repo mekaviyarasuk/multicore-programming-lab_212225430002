@@ -1,0 +1,5 @@
+Process 0 broadcasting value: 777
+Process 0 received value: 777
+Process 1 received value: 777
+Process 2 received value: 777
+Process 3 received value: 777
